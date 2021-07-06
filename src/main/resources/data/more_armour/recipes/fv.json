@@ -1,0 +1,42 @@
+{
+  "group": "more_armour",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "more_armour:copperingot"
+    },
+    "1": {
+      "item": "more_armour:copperingot"
+    },
+    "2": {
+      "item": "more_armour:copperingot"
+    },
+    "3": {
+      "item": "more_armour:copperingot"
+    },
+    "4": {
+      "item": "more_armour:copperingot"
+    },
+    "5": {
+      "item": "more_armour:copperingot"
+    },
+    "6": {
+      "item": "more_armour:copperingot"
+    },
+    "7": {
+      "item": "more_armour:copperingot"
+    },
+    "8": {
+      "item": "more_armour:copperingot"
+    }
+  },
+  "result": {
+    "item": "more_armour:coppperblock",
+    "count": 1
+  }
+}

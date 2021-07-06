@@ -1,0 +1,39 @@
+{
+  "group": "more_armour",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "more_armour:mithrilingot"
+    },
+    "2": {
+      "item": "more_armour:mithrilingot"
+    },
+    "3": {
+      "item": "more_armour:mithrilingot"
+    },
+    "4": {
+      "item": "more_armour:mithrilingot"
+    },
+    "5": {
+      "item": "more_armour:mithrilingot"
+    },
+    "6": {
+      "item": "more_armour:mithrilingot"
+    },
+    "7": {
+      "item": "more_armour:mithrilingot"
+    },
+    "8": {
+      "item": "more_armour:mithrilingot"
+    }
+  },
+  "result": {
+    "item": "more_armour:mithrilarmor_chestplate",
+    "count": 1
+  }
+}

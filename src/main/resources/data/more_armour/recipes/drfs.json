@@ -1,0 +1,30 @@
+{
+  "group": "more_armour",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "more_armour:mithrilingot"
+    },
+    "1": {
+      "item": "more_armour:mithrilingot"
+    },
+    "2": {
+      "item": "more_armour:mithrilingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "more_armour:mithrilpicaxe",
+    "count": 1
+  }
+}

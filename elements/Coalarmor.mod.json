@@ -1,0 +1,70 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "coal_helmet",
+    "enableBody": true,
+    "textureBody": "coal_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "coal_leggings",
+    "enableBoots": true,
+    "textureBoots": "coal_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "coal_",
+    "helmetName": "Coalarmor Helmet",
+    "bodyName": "Coalarmor Body",
+    "leggingsName": "Coalarmor Leggings",
+    "bootsName": "Coalarmor Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 23,
+    "damageValueHelmet": 1,
+    "damageValueBody": 5,
+    "damageValueLeggings": 4,
+    "damageValueBoots": 1,
+    "enchantability": 8,
+    "toughness": 0.1,
+    "knockbackResistance": 0.1,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Coalarmor.helmet"
+      },
+      {
+        "value": "CUSTOM:Coalarmor.body"
+      },
+      {
+        "value": "CUSTOM:Coalarmor.legs"
+      },
+      {
+        "value": "CUSTOM:Coalarmor.boots"
+      },
+      {
+        "value": "Items.HEART_OF_THE_SEA"
+      }
+    ]
+  }
+}

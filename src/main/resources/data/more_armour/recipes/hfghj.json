@@ -1,0 +1,42 @@
+{
+  "group": "more_armour",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "more_armour:raw_mithril"
+    },
+    "1": {
+      "item": "more_armour:raw_mithril"
+    },
+    "2": {
+      "item": "more_armour:raw_mithril"
+    },
+    "3": {
+      "item": "more_armour:raw_mithril"
+    },
+    "4": {
+      "item": "more_armour:raw_mithril"
+    },
+    "5": {
+      "item": "more_armour:raw_mithril"
+    },
+    "6": {
+      "item": "more_armour:raw_mithril"
+    },
+    "7": {
+      "item": "more_armour:raw_mithril"
+    },
+    "8": {
+      "item": "more_armour:raw_mithril"
+    }
+  },
+  "result": {
+    "item": "more_armour:raw_mithrilblock",
+    "count": 1
+  }
+}

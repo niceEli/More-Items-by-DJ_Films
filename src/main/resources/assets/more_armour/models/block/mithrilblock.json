@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_armour:blocks/mithril_block",
+    "up": "more_armour:blocks/mithril_block",
+    "north": "more_armour:blocks/mithril_block",
+    "east": "more_armour:blocks/mithril_block",
+    "south": "more_armour:blocks/mithril_block",
+    "west": "more_armour:blocks/mithril_block",
+    "particle": "more_armour:blocks/mithril_block"
+  }
+}

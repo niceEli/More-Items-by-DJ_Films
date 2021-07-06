@@ -1,0 +1,67 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "redstone_helmet",
+    "enableBody": true,
+    "textureBody": "redstone_chestplate_2",
+    "enableLeggings": true,
+    "textureLeggings": "redstone_leggings_1",
+    "enableBoots": true,
+    "textureBoots": "redstone_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "redstone_",
+    "helmetName": "Redstonearmor Helmet",
+    "bodyName": "Redstonearmor Body",
+    "leggingsName": "Redstonearmor Leggings",
+    "bootsName": "Redstonearmor Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 23,
+    "damageValueHelmet": 3,
+    "damageValueBody": 7,
+    "damageValueLeggings": 6,
+    "damageValueBoots": 3,
+    "enchantability": 10,
+    "toughness": 0.1,
+    "knockbackResistance": 0.1,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Redstonearmor.helmet"
+      },
+      {
+        "value": "CUSTOM:Redstonearmor.body"
+      },
+      {
+        "value": "CUSTOM:Redstonearmor.legs"
+      },
+      {
+        "value": "CUSTOM:Redstonearmor.boots"
+      }
+    ]
+  }
+}

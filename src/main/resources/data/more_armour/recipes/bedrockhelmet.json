@@ -1,0 +1,29 @@
+{
+  "group": "more_armour",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "more_armour:bedrockshard"
+    },
+    "1": {
+      "item": "more_armour:bedrockshard"
+    },
+    "2": {
+      "item": "more_armour:bedrockshard"
+    },
+    "3": {
+      "item": "more_armour:bedrockshard"
+    },
+    "5": {
+      "item": "more_armour:bedrockshard"
+    }
+  },
+  "result": {
+    "item": "more_armour:bedrockarmour_helmet",
+    "count": 1
+  }
+}

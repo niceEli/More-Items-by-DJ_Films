@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_armour:blocks/weak_bedrock",
+    "up": "more_armour:blocks/weak_bedrock",
+    "north": "more_armour:blocks/weak_bedrock",
+    "east": "more_armour:blocks/weak_bedrock",
+    "south": "more_armour:blocks/weak_bedrock",
+    "west": "more_armour:blocks/weak_bedrock",
+    "particle": "more_armour:blocks/weak_bedrock"
+  }
+}

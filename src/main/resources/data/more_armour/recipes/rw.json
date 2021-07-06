@@ -1,0 +1,30 @@
+{
+  "group": "more_armour",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "1": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "2": {
+      "item": "minecraft:debug_stick"
+    },
+    "3": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "4": {
+      "item": "minecraft:debug_stick"
+    }
+  },
+  "result": {
+    "item": "more_armour:lapisaxe",
+    "count": 1
+  }
+}

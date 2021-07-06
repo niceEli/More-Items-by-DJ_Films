@@ -1,0 +1,67 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "mithril_helmet",
+    "enableBody": true,
+    "textureBody": "mithril_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "mithril_leggings",
+    "enableBoots": true,
+    "textureBoots": "mithril_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "mithril_",
+    "helmetName": "Mithrilarmor Helmet",
+    "bodyName": "Mithrilarmor Body",
+    "leggingsName": "Mithrilarmor Leggings",
+    "bootsName": "Mithrilarmor Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 25,
+    "damageValueHelmet": 2,
+    "damageValueBody": 6,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Mithrilarmor.helmet"
+      },
+      {
+        "value": "CUSTOM:Mithrilarmor.body"
+      },
+      {
+        "value": "CUSTOM:Mithrilarmor.legs"
+      },
+      {
+        "value": "CUSTOM:Mithrilarmor.boots"
+      }
+    ]
+  }
+}

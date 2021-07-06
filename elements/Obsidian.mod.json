@@ -1,0 +1,67 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "obsidian_helmet",
+    "enableBody": true,
+    "textureBody": "obsidian_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "obsidian_leggings",
+    "enableBoots": true,
+    "textureBoots": "obsidian_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "obsidian_",
+    "helmetName": "Obsidian Helmet",
+    "bodyName": "Obsidian Body",
+    "leggingsName": "Obsidian Leggings",
+    "bootsName": "Obsidian Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 35,
+    "damageValueHelmet": 2,
+    "damageValueBody": 6,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 20,
+    "toughness": 3.5,
+    "knockbackResistance": 1.5,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Obsidian.helmet"
+      },
+      {
+        "value": "CUSTOM:Obsidian.body"
+      },
+      {
+        "value": "CUSTOM:Obsidian.legs"
+      },
+      {
+        "value": "CUSTOM:Obsidian.boots"
+      }
+    ]
+  }
+}

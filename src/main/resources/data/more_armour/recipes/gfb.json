@@ -1,0 +1,36 @@
+{
+  "group": "more_armour",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "more_armour:mithrilingot"
+    },
+    "1": {
+      "item": "more_armour:mithrilingot"
+    },
+    "2": {
+      "item": "more_armour:mithrilingot"
+    },
+    "3": {
+      "item": "more_armour:mithrilingot"
+    },
+    "5": {
+      "item": "more_armour:mithrilingot"
+    },
+    "6": {
+      "item": "more_armour:mithrilingot"
+    },
+    "8": {
+      "item": "more_armour:mithrilingot"
+    }
+  },
+  "result": {
+    "item": "more_armour:mithrilarmor_leggings",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "more_armour",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "more_armour:copperingot"
+    },
+    "2": {
+      "item": "more_armour:copperingot"
+    },
+    "3": {
+      "item": "more_armour:copperingot"
+    },
+    "5": {
+      "item": "more_armour:copperingot"
+    }
+  },
+  "result": {
+    "item": "more_armour:copperarmor_boots",
+    "count": 1
+  }
+}

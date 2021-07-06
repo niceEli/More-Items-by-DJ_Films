@@ -1,0 +1,70 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "quartz_helmet",
+    "enableBody": true,
+    "textureBody": "quartz_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "quartz_leggings",
+    "enableBoots": true,
+    "textureBoots": "quartz_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "quartz_",
+    "helmetName": "Quartzarmor Helmet",
+    "bodyName": "Quartzarmor Body",
+    "leggingsName": "Quartzarmor Leggings",
+    "bootsName": "Quartzarmor Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 25,
+    "damageValueHelmet": 2,
+    "damageValueBody": 6,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Quartzarmor.helmet"
+      },
+      {
+        "value": "CUSTOM:Quartzarmor.body"
+      },
+      {
+        "value": "CUSTOM:Quartzarmor.legs"
+      },
+      {
+        "value": "CUSTOM:Quartzarmor.boots"
+      },
+      {
+        "value": "CUSTOM:Quartzarmor.boots"
+      }
+    ]
+  }
+}

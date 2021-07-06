@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_armour:blocks/obsidianspeedey",
+    "up": "more_armour:blocks/obsidianspeedey",
+    "north": "more_armour:blocks/obsidianspeedey",
+    "east": "more_armour:blocks/obsidianspeedey",
+    "south": "more_armour:blocks/obsidianspeedey",
+    "west": "more_armour:blocks/obsidianspeedey",
+    "particle": "more_armour:blocks/weak_bedrock"
+  }
+}

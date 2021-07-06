@@ -1,0 +1,26 @@
+{
+  "group": "more_armour",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:redstone"
+    },
+    "2": {
+      "item": "minecraft:redstone"
+    },
+    "3": {
+      "item": "minecraft:redstone"
+    },
+    "5": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "more_armour:redstonearmor_boots",
+    "count": 1
+  }
+}
