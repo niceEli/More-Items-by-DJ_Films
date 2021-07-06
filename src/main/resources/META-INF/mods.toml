@@ -1,16 +1,20 @@
 modLoader="javafml"
 loaderVersion="[36,)"
-license="Academic Free License v3.0"
+license="niceFilms Official license"
 
 [[mods]]
-modId="more_armour"
-version="1.0.0"
-displayName="more armour"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
+modId="djfilmsmi"
+version="1.0.1"
+displayName="More Items By DJ_Films"
+credits="MORE ITEMS YES"
 displayURL="https://mcreator.net"
-authors="djfil, MCreator"
+logoFile="logo.png"
+authors="DJ_Films, niceEli, and Nicc"
+description='''
+A Small Mod That Adds A Few Items
+'''
 
-[[dependencies.more_armour]]
+[[dependencies.djfilmsmi]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.16.5]"

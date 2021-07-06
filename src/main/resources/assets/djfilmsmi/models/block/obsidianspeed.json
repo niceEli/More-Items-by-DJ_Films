@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "djfilmsmi:blocks/obsidianspeedey",
+    "up": "djfilmsmi:blocks/obsidianspeedey",
+    "north": "djfilmsmi:blocks/obsidianspeedey",
+    "east": "djfilmsmi:blocks/obsidianspeedey",
+    "south": "djfilmsmi:blocks/obsidianspeedey",
+    "west": "djfilmsmi:blocks/obsidianspeedey",
+    "particle": "djfilmsmi:blocks/weak_bedrock"
+  }
+}

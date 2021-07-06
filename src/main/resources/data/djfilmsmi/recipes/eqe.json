@@ -1,0 +1,30 @@
+{
+  "group": "djfilmsmi",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "djfilmsmi:bedrockshard"
+    },
+    "1": {
+      "item": "djfilmsmi:bedrockshard"
+    },
+    "2": {
+      "item": "djfilmsmi:bedrockshard"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "djfilmsmi:bedrockpicaxe",
+    "count": 1
+  }
+}

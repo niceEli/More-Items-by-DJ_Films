@@ -1,0 +1,42 @@
+{
+  "group": "djfilmsmi",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "djfilmsmi:bedrockshard"
+    },
+    "1": {
+      "item": "djfilmsmi:bedrockshard"
+    },
+    "2": {
+      "item": "djfilmsmi:bedrockshard"
+    },
+    "3": {
+      "item": "djfilmsmi:bedrockshard"
+    },
+    "4": {
+      "item": "djfilmsmi:bedrockshard"
+    },
+    "5": {
+      "item": "djfilmsmi:bedrockshard"
+    },
+    "6": {
+      "item": "djfilmsmi:bedrockshard"
+    },
+    "7": {
+      "item": "djfilmsmi:bedrockshard"
+    },
+    "8": {
+      "item": "djfilmsmi:bedrockshard"
+    }
+  },
+  "result": {
+    "item": "djfilmsmi:weakbedrock",
+    "count": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "djfilmsmi:block/obsidianspeed"
+    },
+    "facing=east": {
+      "model": "djfilmsmi:block/obsidianspeed",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "djfilmsmi:block/obsidianspeed",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "djfilmsmi:block/obsidianspeed",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "djfilmsmi:block/obsidianspeed",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "djfilmsmi:block/obsidianspeed",
+      "x": 90
+    }
+  }
+}

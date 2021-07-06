@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "djfilmsmi:blocks/raw_copper_block",
+    "up": "djfilmsmi:blocks/raw_copper_block",
+    "north": "djfilmsmi:blocks/raw_copper_block",
+    "east": "djfilmsmi:blocks/raw_copper_block",
+    "south": "djfilmsmi:blocks/raw_copper_block",
+    "west": "djfilmsmi:blocks/raw_copper_block",
+    "particle": "djfilmsmi:blocks/raw_copper_block"
+  }
+}

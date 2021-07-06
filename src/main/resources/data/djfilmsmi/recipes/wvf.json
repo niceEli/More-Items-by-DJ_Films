@@ -1,0 +1,36 @@
+{
+  "group": "djfilmsmi",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "djfilmsmi:bedrockshard"
+    },
+    "1": {
+      "item": "djfilmsmi:bedrockshard"
+    },
+    "2": {
+      "item": "djfilmsmi:bedrockshard"
+    },
+    "3": {
+      "item": "djfilmsmi:bedrockshard"
+    },
+    "5": {
+      "item": "djfilmsmi:bedrockshard"
+    },
+    "6": {
+      "item": "djfilmsmi:bedrockshard"
+    },
+    "8": {
+      "item": "djfilmsmi:bedrockshard"
+    }
+  },
+  "result": {
+    "item": "djfilmsmi:bedrockarmour_leggings",
+    "count": 1
+  }
+}

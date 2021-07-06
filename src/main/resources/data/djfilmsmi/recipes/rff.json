@@ -1,0 +1,26 @@
+{
+  "group": "djfilmsmi",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "djfilmsmi:coppperblock"
+    },
+    "1": {
+      "item": "djfilmsmi:coppperblock"
+    },
+    "2": {
+      "item": "djfilmsmi:coppperblock"
+    },
+    "3": {
+      "item": "djfilmsmi:coppperblock"
+    }
+  },
+  "result": {
+    "item": "djfilmsmi:cutcopperblock",
+    "count": 4
+  }
+}

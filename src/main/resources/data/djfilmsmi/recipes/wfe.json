@@ -1,0 +1,36 @@
+{
+  "group": "djfilmsmi",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "djfilmsmi:copperingot"
+    },
+    "1": {
+      "item": "djfilmsmi:copperingot"
+    },
+    "2": {
+      "item": "djfilmsmi:copperingot"
+    },
+    "3": {
+      "item": "djfilmsmi:copperingot"
+    },
+    "5": {
+      "item": "djfilmsmi:copperingot"
+    },
+    "6": {
+      "item": "djfilmsmi:copperingot"
+    },
+    "8": {
+      "item": "djfilmsmi:copperingot"
+    }
+  },
+  "result": {
+    "item": "djfilmsmi:copperarmor_leggings",
+    "count": 1
+  }
+}

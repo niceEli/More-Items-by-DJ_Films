@@ -1,0 +1,24 @@
+{
+  "group": "djfilmsmi",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "1": {
+      "item": "minecraft:debug_stick"
+    },
+    "2": {
+      "item": "minecraft:debug_stick"
+    }
+  },
+  "result": {
+    "item": "djfilmsmi:lapisshovel",
+    "count": 1
+  }
+}

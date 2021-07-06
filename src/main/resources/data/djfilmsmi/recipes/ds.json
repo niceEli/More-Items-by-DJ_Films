@@ -1,0 +1,30 @@
+{
+  "group": "djfilmsmi",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "djfilmsmi:copperingot"
+    },
+    "1": {
+      "item": "djfilmsmi:copperingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "djfilmsmi:copperingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "djfilmsmi:copperaxe",
+    "count": 1
+  }
+}

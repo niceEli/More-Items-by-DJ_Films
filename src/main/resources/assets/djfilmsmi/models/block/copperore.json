@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "djfilmsmi:blocks/copper_ore",
+    "up": "djfilmsmi:blocks/copper_ore",
+    "north": "djfilmsmi:blocks/copper_ore",
+    "east": "djfilmsmi:blocks/copper_ore",
+    "south": "djfilmsmi:blocks/copper_ore",
+    "west": "djfilmsmi:blocks/copper_ore",
+    "particle": "djfilmsmi:blocks/copper_ore"
+  }
+}

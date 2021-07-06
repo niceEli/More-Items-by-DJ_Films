@@ -1,0 +1,16 @@
+{
+  "group": "djfilmsmi",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "djfilmsmi:raw_mithrilblock"
+    }
+  },
+  "result": {
+    "item": "djfilmsmi:raw_mithril",
+    "count": 9
+  }
+}

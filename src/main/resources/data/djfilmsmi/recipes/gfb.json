@@ -1,0 +1,36 @@
+{
+  "group": "djfilmsmi",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "djfilmsmi:mithrilingot"
+    },
+    "1": {
+      "item": "djfilmsmi:mithrilingot"
+    },
+    "2": {
+      "item": "djfilmsmi:mithrilingot"
+    },
+    "3": {
+      "item": "djfilmsmi:mithrilingot"
+    },
+    "5": {
+      "item": "djfilmsmi:mithrilingot"
+    },
+    "6": {
+      "item": "djfilmsmi:mithrilingot"
+    },
+    "8": {
+      "item": "djfilmsmi:mithrilingot"
+    }
+  },
+  "result": {
+    "item": "djfilmsmi:mithrilarmor_leggings",
+    "count": 1
+  }
+}

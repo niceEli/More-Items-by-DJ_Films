@@ -1,0 +1,42 @@
+{
+  "group": "djfilmsmi",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "djfilmsmi:raw_mithril"
+    },
+    "1": {
+      "item": "djfilmsmi:raw_mithril"
+    },
+    "2": {
+      "item": "djfilmsmi:raw_mithril"
+    },
+    "3": {
+      "item": "djfilmsmi:raw_mithril"
+    },
+    "4": {
+      "item": "djfilmsmi:raw_mithril"
+    },
+    "5": {
+      "item": "djfilmsmi:raw_mithril"
+    },
+    "6": {
+      "item": "djfilmsmi:raw_mithril"
+    },
+    "7": {
+      "item": "djfilmsmi:raw_mithril"
+    },
+    "8": {
+      "item": "djfilmsmi:raw_mithril"
+    }
+  },
+  "result": {
+    "item": "djfilmsmi:raw_mithrilblock",
+    "count": 1
+  }
+}

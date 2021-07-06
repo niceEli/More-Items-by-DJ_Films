@@ -1,0 +1,26 @@
+{
+  "group": "djfilmsmi",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "djfilmsmi:bedrockshard"
+    },
+    "2": {
+      "item": "djfilmsmi:bedrockshard"
+    },
+    "3": {
+      "item": "djfilmsmi:bedrockshard"
+    },
+    "5": {
+      "item": "djfilmsmi:bedrockshard"
+    }
+  },
+  "result": {
+    "item": "djfilmsmi:bedrockarmour_boots",
+    "count": 1
+  }
+}

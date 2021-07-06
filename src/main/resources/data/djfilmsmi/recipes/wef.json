@@ -1,0 +1,42 @@
+{
+  "group": "djfilmsmi",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "djfilmsmi:rawcoppper"
+    },
+    "1": {
+      "item": "djfilmsmi:rawcoppper"
+    },
+    "2": {
+      "item": "djfilmsmi:rawcoppper"
+    },
+    "3": {
+      "item": "djfilmsmi:rawcoppper"
+    },
+    "4": {
+      "item": "djfilmsmi:rawcoppper"
+    },
+    "5": {
+      "item": "djfilmsmi:rawcoppper"
+    },
+    "6": {
+      "item": "djfilmsmi:rawcoppper"
+    },
+    "7": {
+      "item": "djfilmsmi:rawcoppper"
+    },
+    "8": {
+      "item": "djfilmsmi:rawcoppper"
+    }
+  },
+  "result": {
+    "item": "djfilmsmi:rawcopperblock",
+    "count": 1
+  }
+}

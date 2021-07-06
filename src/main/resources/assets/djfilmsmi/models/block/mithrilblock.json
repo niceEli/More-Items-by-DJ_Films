@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "djfilmsmi:blocks/mithril_block",
+    "up": "djfilmsmi:blocks/mithril_block",
+    "north": "djfilmsmi:blocks/mithril_block",
+    "east": "djfilmsmi:blocks/mithril_block",
+    "south": "djfilmsmi:blocks/mithril_block",
+    "west": "djfilmsmi:blocks/mithril_block",
+    "particle": "djfilmsmi:blocks/mithril_block"
+  }
+}

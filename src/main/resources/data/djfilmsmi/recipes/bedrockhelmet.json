@@ -1,0 +1,29 @@
+{
+  "group": "djfilmsmi",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "djfilmsmi:bedrockshard"
+    },
+    "1": {
+      "item": "djfilmsmi:bedrockshard"
+    },
+    "2": {
+      "item": "djfilmsmi:bedrockshard"
+    },
+    "3": {
+      "item": "djfilmsmi:bedrockshard"
+    },
+    "5": {
+      "item": "djfilmsmi:bedrockshard"
+    }
+  },
+  "result": {
+    "item": "djfilmsmi:bedrockarmour_helmet",
+    "count": 1
+  }
+}

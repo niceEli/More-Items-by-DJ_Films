@@ -1,0 +1,30 @@
+{
+  "group": "djfilmsmi",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "djfilmsmi:mithrilingot"
+    },
+    "1": {
+      "item": "djfilmsmi:mithrilingot"
+    },
+    "2": {
+      "item": "djfilmsmi:mithrilingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "djfilmsmi:mithrilpicaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "djfilmsmi:blocks/weak_bedrock",
+    "up": "djfilmsmi:blocks/weak_bedrock",
+    "north": "djfilmsmi:blocks/weak_bedrock",
+    "east": "djfilmsmi:blocks/weak_bedrock",
+    "south": "djfilmsmi:blocks/weak_bedrock",
+    "west": "djfilmsmi:blocks/weak_bedrock",
+    "particle": "djfilmsmi:blocks/weak_bedrock"
+  }
+}

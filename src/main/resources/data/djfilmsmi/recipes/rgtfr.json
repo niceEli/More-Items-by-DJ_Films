@@ -1,0 +1,39 @@
+{
+  "group": "djfilmsmi",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "djfilmsmi:mithrilingot"
+    },
+    "2": {
+      "item": "djfilmsmi:mithrilingot"
+    },
+    "3": {
+      "item": "djfilmsmi:mithrilingot"
+    },
+    "4": {
+      "item": "djfilmsmi:mithrilingot"
+    },
+    "5": {
+      "item": "djfilmsmi:mithrilingot"
+    },
+    "6": {
+      "item": "djfilmsmi:mithrilingot"
+    },
+    "7": {
+      "item": "djfilmsmi:mithrilingot"
+    },
+    "8": {
+      "item": "djfilmsmi:mithrilingot"
+    }
+  },
+  "result": {
+    "item": "djfilmsmi:mithrilarmor_chestplate",
+    "count": 1
+  }
+}
