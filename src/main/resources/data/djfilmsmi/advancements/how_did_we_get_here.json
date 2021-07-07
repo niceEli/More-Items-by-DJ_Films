@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:bedrock"
+    },
+    "title": {
+      "translate": "advancements.how_did_we_get_here.title"
+    },
+    "description": {
+      "translate": "advancements.how_did_we_get_here.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "how_did_we_get_here": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "djfilmsmi:bedrockshard",
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "parent": "minecraft:end/kill_dragon"
+}

@@ -24,19 +24,19 @@ public class BedrockshovelItem extends DjfilmsmiModElements.ModElement {
 	public void initElements() {
 		elements.items.add(() -> new ShovelItem(new IItemTier() {
 			public int getMaxUses() {
-				return 100;
+				return 0;
 			}
 
 			public float getEfficiency() {
-				return 4f;
+				return 21f;
 			}
 
 			public float getAttackDamage() {
-				return 2f;
+				return 23f;
 			}
 
 			public int getHarvestLevel() {
-				return 1;
+				return 4;
 			}
 
 			public int getEnchantability() {
@@ -44,9 +44,9 @@ public class BedrockshovelItem extends DjfilmsmiModElements.ModElement {
 			}
 
 			public Ingredient getRepairMaterial() {
-				return Ingredient.fromStacks(new ItemStack(BedrockshovelItem.block, (int) (1)));
+				return Ingredient.fromStacks(new ItemStack(BedrockshovelItem.block, (int) (1)), new ItemStack(BedrockshardItem.block, (int) (1)));
 			}
-		}, 1, -3f, new Item.Properties().group(ItemGroup.TOOLS).isImmuneToFire()) {
+		}, 1, 1f, new Item.Properties().group(ItemGroup.TOOLS).isImmuneToFire()) {
 		}.setRegistryName("bedrockshovel"));
 	}
 }

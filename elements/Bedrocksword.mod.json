@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "bedrock_sword",
     "customModelName": "Normal",
-    "name": "Bedrocksword",
+    "name": "Bedrock Sword",
     "specialInfo": [],
     "creativeTab": {
       "value": "COMBAT"
@@ -16,12 +16,15 @@
     "attackSpeed": 1.5,
     "enchantability": 4,
     "damageVsEntity": 4.3,
-    "usageCount": 106,
+    "usageCount": 0,
     "blocksAffected": [],
     "hasGlow": false,
     "repairItems": [
       {
         "value": "CUSTOM:Bedrocksword"
+      },
+      {
+        "value": "CUSTOM:Bedrockshard"
       }
     ],
     "immuneToFire": true,

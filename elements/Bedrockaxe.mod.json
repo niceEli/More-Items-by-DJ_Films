@@ -5,23 +5,26 @@
     "renderType": 0,
     "texture": "bedrock_axe",
     "customModelName": "Normal",
-    "name": "Bedrockaxe",
+    "name": "Bedrock Axe",
     "specialInfo": [],
     "creativeTab": {
       "value": "TOOLS"
     },
     "toolType": "Axe",
-    "harvestLevel": 1,
-    "efficiency": 4.0,
-    "attackSpeed": 1.0,
-    "enchantability": 2,
-    "damageVsEntity": 4.0,
-    "usageCount": 100,
+    "harvestLevel": 5,
+    "efficiency": 21.0,
+    "attackSpeed": 5.0,
+    "enchantability": 69,
+    "damageVsEntity": 35.0,
+    "usageCount": 0,
     "blocksAffected": [],
     "hasGlow": false,
     "repairItems": [
       {
         "value": "CUSTOM:Bedrockaxe"
+      },
+      {
+        "value": "CUSTOM:Bedrockshard"
       }
     ],
     "immuneToFire": true,

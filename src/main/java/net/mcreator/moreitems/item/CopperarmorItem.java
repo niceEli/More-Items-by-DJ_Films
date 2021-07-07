@@ -42,7 +42,7 @@ public class CopperarmorItem extends DjfilmsmiModElements.ModElement {
 
 			@Override
 			public int getDamageReductionAmount(EquipmentSlotType slot) {
-				return new int[]{2, 3, 4, 1}[slot.getIndex()];
+				return new int[]{2, 1, 1, 1}[slot.getIndex()];
 			}
 
 			@Override
@@ -69,12 +69,12 @@ public class CopperarmorItem extends DjfilmsmiModElements.ModElement {
 
 			@Override
 			public float getToughness() {
-				return 0.2f;
+				return 0f;
 			}
 
 			@Override
 			public float getKnockbackResistance() {
-				return 0.1f;
+				return 0f;
 			}
 		};
 		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.HEAD, new Item.Properties().group(ItemGroup.COMBAT)) {

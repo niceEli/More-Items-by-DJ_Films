@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "djfilmsmi:obsidianspeed"
+    },
+    "title": {
+      "translate": "advancements.i_got_the_power.title"
+    },
+    "description": {
+      "translate": "advancements.i_got_the_power.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "i_got_the_power": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "djfilmsmi:obsidianspeed",
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "minecraft:story/form_obsidian"
+}

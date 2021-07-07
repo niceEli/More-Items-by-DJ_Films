@@ -24,15 +24,15 @@ public class BedrockpicaxeItem extends DjfilmsmiModElements.ModElement {
 	public void initElements() {
 		elements.items.add(() -> new PickaxeItem(new IItemTier() {
 			public int getMaxUses() {
-				return 108;
+				return 0;
 			}
 
 			public float getEfficiency() {
-				return 5f;
+				return 21f;
 			}
 
 			public float getAttackDamage() {
-				return 2.5f;
+				return 23f;
 			}
 
 			public int getHarvestLevel() {
@@ -40,13 +40,13 @@ public class BedrockpicaxeItem extends DjfilmsmiModElements.ModElement {
 			}
 
 			public int getEnchantability() {
-				return 4;
+				return 69;
 			}
 
 			public Ingredient getRepairMaterial() {
-				return Ingredient.fromStacks(new ItemStack(BedrockpicaxeItem.block, (int) (1)));
+				return Ingredient.fromStacks(new ItemStack(BedrockpicaxeItem.block, (int) (1)), new ItemStack(BedrockshardItem.block, (int) (1)));
 			}
-		}, 1, -2.5f, new Item.Properties().group(ItemGroup.TOOLS).isImmuneToFire()) {
+		}, 1, 1f, new Item.Properties().group(ItemGroup.TOOLS).isImmuneToFire()) {
 		}.setRegistryName("bedrockpicaxe"));
 	}
 }

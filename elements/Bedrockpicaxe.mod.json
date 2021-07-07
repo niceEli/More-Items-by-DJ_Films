@@ -12,16 +12,19 @@
     },
     "toolType": "Pickaxe",
     "harvestLevel": 3,
-    "efficiency": 5.0,
-    "attackSpeed": 1.5,
-    "enchantability": 4,
-    "damageVsEntity": 4.5,
-    "usageCount": 108,
+    "efficiency": 21.0,
+    "attackSpeed": 5.0,
+    "enchantability": 69,
+    "damageVsEntity": 25.0,
+    "usageCount": 0,
     "blocksAffected": [],
     "hasGlow": false,
     "repairItems": [
       {
         "value": "CUSTOM:Bedrockpicaxe"
+      },
+      {
+        "value": "CUSTOM:Bedrockshard"
       }
     ],
     "immuneToFire": true,

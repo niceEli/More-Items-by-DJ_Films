@@ -24,7 +24,7 @@ public class BedrockswordItem extends DjfilmsmiModElements.ModElement {
 	public void initElements() {
 		elements.items.add(() -> new SwordItem(new IItemTier() {
 			public int getMaxUses() {
-				return 106;
+				return 0;
 			}
 
 			public float getEfficiency() {
@@ -44,7 +44,7 @@ public class BedrockswordItem extends DjfilmsmiModElements.ModElement {
 			}
 
 			public Ingredient getRepairMaterial() {
-				return Ingredient.fromStacks(new ItemStack(BedrockswordItem.block, (int) (1)));
+				return Ingredient.fromStacks(new ItemStack(BedrockswordItem.block, (int) (1)), new ItemStack(BedrockshardItem.block, (int) (1)));
 			}
 		}, 3, -2.5f, new Item.Properties().group(ItemGroup.COMBAT).isImmuneToFire()) {
 		}.setRegistryName("bedrocksword"));

@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "djfilmsmi:coppperblock"
+    },
+    "title": {
+      "translate": "advancements.more_like.title"
+    },
+    "description": {
+      "translate": "advancements.more_like.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "more_like": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "djfilmsmi:rawcoppper",
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "minecraft:story/mine_stone"
+}

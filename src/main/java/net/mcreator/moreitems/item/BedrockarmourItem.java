@@ -42,7 +42,7 @@ public class BedrockarmourItem extends DjfilmsmiModElements.ModElement {
 
 			@Override
 			public int getDamageReductionAmount(EquipmentSlotType slot) {
-				return new int[]{3, 6, 7, 3}[slot.getIndex()];
+				return new int[]{10, 10, 10, 10}[slot.getIndex()];
 			}
 
 			@Override
@@ -58,7 +58,8 @@ public class BedrockarmourItem extends DjfilmsmiModElements.ModElement {
 			@Override
 			public Ingredient getRepairMaterial() {
 				return Ingredient.fromStacks(new ItemStack(BedrockarmourItem.helmet, (int) (1)), new ItemStack(BedrockarmourItem.body, (int) (1)),
-						new ItemStack(BedrockarmourItem.legs, (int) (1)), new ItemStack(BedrockarmourItem.boots, (int) (1)));
+						new ItemStack(BedrockarmourItem.legs, (int) (1)), new ItemStack(BedrockarmourItem.boots, (int) (1)),
+						new ItemStack(BedrockshardItem.block, (int) (1)));
 			}
 
 			@OnlyIn(Dist.CLIENT)
@@ -74,7 +75,7 @@ public class BedrockarmourItem extends DjfilmsmiModElements.ModElement {
 
 			@Override
 			public float getKnockbackResistance() {
-				return 0.5f;
+				return 1f;
 			}
 		};
 		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.HEAD, new Item.Properties().group(ItemGroup.COMBAT)) {

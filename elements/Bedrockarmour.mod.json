@@ -14,10 +14,10 @@
       "value": "COMBAT"
     },
     "armorTextureFile": "bedrock_",
-    "helmetName": "Bedrockarmour Helmet",
-    "bodyName": "Bedrockarmour Body",
-    "leggingsName": "Bedrockarmour Leggings",
-    "bootsName": "Bedrockarmour Boots",
+    "helmetName": "Bedrock Helmet",
+    "bodyName": "Bedrock Chestplate",
+    "leggingsName": "Bedrock Leggings",
+    "bootsName": "Bedrock Boots",
     "helmetSpecialInfo": [],
     "bodySpecialInfo": [],
     "leggingsSpecialInfo": [],
@@ -39,13 +39,13 @@
     "bootsModelPartR": "Boots R",
     "bootsModelTexture": "From armor",
     "maxDamage": 30,
-    "damageValueHelmet": 3,
-    "damageValueBody": 7,
-    "damageValueLeggings": 6,
-    "damageValueBoots": 3,
+    "damageValueHelmet": 10,
+    "damageValueBody": 10,
+    "damageValueLeggings": 10,
+    "damageValueBoots": 10,
     "enchantability": 11,
     "toughness": 0.5,
-    "knockbackResistance": 0.5,
+    "knockbackResistance": 1.0,
     "equipSound": {
       "value": ""
     },
@@ -61,6 +61,9 @@
       },
       {
         "value": "CUSTOM:Bedrockarmour.boots"
+      },
+      {
+        "value": "CUSTOM:Bedrockshard"
       }
     ]
   }
