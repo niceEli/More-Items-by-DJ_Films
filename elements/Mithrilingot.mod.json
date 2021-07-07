@@ -5,10 +5,10 @@
     "renderType": 0,
     "texture": "mithril_ingot",
     "customModelName": "Normal",
-    "name": "Mithrilingot",
+    "name": "Mithril Ingot",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "MISC"
+      "value": "MATERIALS"
     },
     "stackSize": 64,
     "enchantability": 0,
