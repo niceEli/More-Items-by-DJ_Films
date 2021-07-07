@@ -4,10 +4,10 @@ license="niceFilms Official license"
 
 [[mods]]
 modId="djfilmsmi"
-version="1.0.1"
+version="1.0.0"
 displayName="More Items By DJ_Films"
 credits="MORE ITEMS YES"
-displayURL="https://mcreator.net"
+displayURL="https://github.com/niceEli/More-Items-by-DJ_Films"
 logoFile="logo.png"
 authors="DJ_Films, niceEli, and Nicc"
 description='''
